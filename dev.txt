@@ -1,0 +1,6 @@
+[DEFAULT]
+time = 30
+only_today_check = y
+log = Y
+rest_mode = y
+rest_time = 9
