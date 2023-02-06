@@ -167,16 +167,16 @@ def run():
     createFolder('log')
     createFolder('log_month')
 
-#연습용             #메인 서버
-#dev.e-e.kr         52.79.245.216
+#test             #메인 서버
+#00.000.000.000         00.000.000.000
 #kin_like3          kin_like2
 #elql12!            elql12!
 #test_hongyeon      kin_like
 
     try :
-        host = 'dev.e-e.kr'
+        host = 'server_name'
         user = 'root'
-        password = 'xptmxm12'
+        password = 'password'
         db = 'test_hongyeon'
 
         referer = 'https://kin.naver.com'
